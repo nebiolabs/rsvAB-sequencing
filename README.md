@@ -1,2 +1,2 @@
 # rsvAB-sequencing
-NEBNext RSV A/B Multiplex PCR sequencing primers
+NEBNext multiplex PCR sequencing primers for respiratory syncytial virus (RSV) A & B
