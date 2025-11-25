@@ -7,10 +7,7 @@ Primer positions were liberally estimated based on homology of 3' ends on the as
 
 ### Overview
 
-For analyzing Oxford Nanopore Technologies (ONT) sequencing data from RSV samples generated using the NEBNext multiplex PCR approach, we recommend using a Galaxy workflow that aligns reads to RSV A and B reference genomes and generates consensus sequences with comprehensive quality metrics.
-
-**Workflow Name:** NEB ONT RSV
-**Description:** A simple workflow to align ONT reads to RSV A or B reference genomes and generate consensus sequences.  
+To analyze sequencing data from RSV samples generated using the NEBNext multiplex PCR approach on an ONT sequencer, we recommend using a Galaxy workflow that aligns reads to RSV A and B reference genomes and generates consensus sequences with comprehensive quality metrics.
 
 ### About Galaxy
 
@@ -34,7 +31,7 @@ Example RSV sequencing data is available to help you test the workflow:
 #### 3. Import the Workflow
 
 Access and import the analysis workflow:
-- [RSV Analysis Workflow (usegalaxy.org)](https://usegalaxy.org/published/workflow?id=f719137988c2f286)
+- [RSV Analysis Workflow (usegalaxy.org)](https://usegalaxy.org/u/bradlanghorst/w/neb-ont-rsv)
 - [RSV Analysis Workflow (usegalaxy.eu)](https://usegalaxy.eu/u/brad_langhorst/w/neb-ont-rsv)
 - Click to import the workflow to your Galaxy account
 
